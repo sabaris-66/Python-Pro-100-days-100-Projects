@@ -1,0 +1,1 @@
+This floder contains all the capstone projects done during the 100 days of coding during Python Pro Bootcamp.
